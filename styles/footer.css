@@ -1,0 +1,32 @@
+.input {
+    width: 100vw;
+    height: 350px;
+}
+
+.margin {
+    width: 1050px;
+}
+
+.logoSenac {
+    margin-left: -300px;
+}
+
+.btn2 {
+    border: 1px solid var(--green);
+    background-color: var(--green);
+    padding: 3px 60px;
+    border-radius: 10px;
+}
+
+.btn2:hover {
+    background-color:var(--green-ligth);
+}
+
+.bnt-p {
+    display: inline-block;
+    margin: 0 20px;
+}
+ .button-center {
+    display: flex;
+    align-items: center;
+ }

@@ -1,0 +1,73 @@
+.carrossel {
+    background-image: url(../img/sessao-formulario-background.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    position: relative;
+}
+
+.carrossel-titulo {
+    text-align: center;
+    font-size: 30px;
+    font-weight: 500;
+    padding: 80px 0;
+    color: var(--light-gray);
+
+}
+
+.swiper-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    width: 100vw;
+    text-align: center;
+}
+
+.swiperC {
+    width: 250px;
+    margin-bottom: 50px;
+
+}
+
+.card-img-depositions {
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    background-color: var(--light-gray);
+    border-radius: 50%;
+}
+
+.card-text, .card-text-n {
+    line-height: 0.6em;
+    line-height: 1.3em;
+    max-width: 90%;
+    padding-top: 5px;
+    margin: 0 auto;
+    color: var(--light-gray);
+}
+
+.card-text {
+    font-size: 14px;
+    color: var(--gray);
+}
+
+.card-text-n {
+    font-weight: 700;
+    font-family: var(--font-logo);
+}
+
+.carrossel-text {
+    display: flex;
+    justify-content: center;
+    width: 100vw;
+    margin: 140px;
+}
+.carousel-p {
+    line-height: 1.3em;
+    max-width: 80%;
+    margin: 0 auto;
+    text-align: center;
+    color: var(--light-gray);
+}

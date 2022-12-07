@@ -1,0 +1,71 @@
+.solution{
+    position: relative;
+    top: 100px;
+    height: 1150px;
+    background-color: var(--dark);
+    
+}
+.solution-infor {
+    width: 70vw;
+    margin-left: 200px;
+}
+
+.solution-title, .ling-title {
+    font-size: 30px;
+    font-weight: 500;
+    text-align: center;
+    padding: 70px;
+    background-color: var(--dark);
+    color: var(--white);
+}
+
+.carousel-inner > .carousel-item > img {
+    width: 60%;
+    height: 500px; 
+    
+}  
+
+.img-ling {
+    width: 100px;
+    height: 100px;
+    border-radius: 10px;
+}
+
+.linguagens-img {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    flex-wrap: wrap;
+}
+
+/* 
+.infor-solution {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+   margin: 5em 0;
+   text-align: center;
+}
+
+.infor-img {
+    width: 120px;
+}
+
+.img2 {
+    width: 250px;
+}
+
+.infor-text {
+padding-top: 2em;
+width: 300px;
+line-height: 1.5em;
+color: var(--light-gray);
+}
+
+.infor-text-dest {
+    font-size: 18px;
+    font-weight: 500;
+    color: var(--tiffany-green);
+    margin: 1em;
+} */

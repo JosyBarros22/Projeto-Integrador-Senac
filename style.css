@@ -1,0 +1,31 @@
+@import url(styles/header.css);
+@import url(styles/banner.css);
+@import url(styles/equipe.css);
+@import url(styles/solution.css);
+@import url(styles/portifolio.css);
+@import url(styles/footer.css);
+
+
+:root {
+    --font-principal: 'Montserrat', sans-serif;
+    --font-logo: 'Josefin Sans', sans-serif;
+    --black: #000000;
+    --navy-blue: #18314e;
+    --white: #ffffff;
+    --dark: #262431;
+    --gray: #7a7a7a;
+    --dark-gray: #2f2c3d;
+    --light-gray: #f1f1f8;
+    --gradiente-blue: linear-gradient( #357dd0, #18314e);
+    --green: green;
+    --green-ligth: #0ba90b;
+    --orange: orange;
+}
+
+body {
+    font-family: var(--font-principal);
+    font-size: 16px;
+    overflow-x: hidden;
+    background-color: var(--dark);
+    
+}
